@@ -29,7 +29,7 @@ export function HomePage({ onNavigate }: HomePageProps) {
       name: 'Speed 400',
       brand: 'Triumph',
       price: 275000,
-      image: 'https://images.unsplash.com/photo-1669905153773-4fab38326b7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx8fDE3NTg2NTU2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+      image: '/trimph.jpg',
       mileage: 35,
       badge: 'New Launch'
     },
@@ -38,7 +38,7 @@ export function HomePage({ onNavigate }: HomePageProps) {
       name: 'Electric Scooter Pro',
       brand: 'Modern',
       price: 150000,
-      image: 'https://images.unsplash.com/photo-1583322319396-08178ea4f8b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx8fHwxNzU4NzQzOTI3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+      image: '/ev1.jpg',
       mileage: 120,
       badge: 'Eco Friendly'
     },
@@ -47,7 +47,7 @@ export function HomePage({ onNavigate }: HomePageProps) {
       name: 'Cafe Racer 650',
       brand: 'Vintage',
       price: 320000,
-      image: 'https://images.unsplash.com/photo-1642418425655-7168f530b42d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx8fHwxNzU4NzQzOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+      image: '/6501.jpg',
       mileage: 28,
       badge: 'Premium'
     }
